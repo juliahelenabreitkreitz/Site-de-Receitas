@@ -1,0 +1,30 @@
+:root {
+  --roxo: rgba(76, 85, 183, 1);
+  --amarelo: rgba(254, 200, 82, 1);
+  --laranja: rgba(236, 155, 47, 1);
+  --laranja-escuro: rgba(223, 114, 44, 1);
+  --vermelho: rgba(192, 55, 36, 1);
+  --quase-preto: rgba(59, 59, 59, 1);
+  --quase-branco: rgba(249, 249, 249, 1);
+  --filtro-imagens: rgba(254, 200, 82, 0.1);
+  --t-tulo-de-se-o-font-family: "Epilogue", Helvetica;
+  --t-tulo-de-se-o-font-weight: 600;
+  --t-tulo-de-se-o-font-size: 40px;
+  --t-tulo-de-se-o-letter-spacing: 0px;
+  --t-tulo-de-se-o-line-height: 150%;
+  --t-tulo-de-se-o-font-style: normal;
+  --texto-regular-font-family: "Epilogue", Helvetica;
+  --texto-regular-font-weight: 400;
+  --texto-regular-font-size: 20px;
+  --texto-regular-letter-spacing: 0px;
+  --texto-regular-line-height: normal;
+  --texto-regular-font-style: normal;
+  --textos-menores-font-family: "Epilogue", Helvetica;
+  --textos-menores-font-weight: 200;
+  --textos-menores-font-size: 16px;
+  --textos-menores-letter-spacing: 0px;
+  --textos-menores-line-height: 120.00000476837158%;
+  --textos-menores-font-style: normal;
+  --sombra-cards: 0px 4px 10px 0px rgba(0, 0, 0, 0.25);
+  --sombra-2: 0px 0px 10px 2px rgba(0, 0, 0, 0.25);
+}
